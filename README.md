@@ -6,7 +6,7 @@
 - 👩‍🏫Estudando front end
 
   
- ![snake gif](https://github.com/your-user-name/Breadcrumbssouzaayra/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/souzaayra/Breadcrumbssouzaayra/blob/output/github-contribution-grid-snake.gif)
 
  
  <div>
