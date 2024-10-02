@@ -5,6 +5,10 @@
 - 💻Em transição de carreira
 - 👩‍🏫Estudando front end
 
+  
+ ![snake gif](https://github.com/your-user-name/Breadcrumbssouzaayra/blob/output/github-contribution-grid-snake.gif)
+
+ 
  <div>
    <a href="https://github.com/souzaayra">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzaayra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,7 +30,7 @@
   <a href="https://www.instagram.com/ayraasouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
- ![snake gif](https://github.com/your-user-name/Breadcrumbssouzaayra/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
